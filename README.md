@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wildan Taufik</h1>
+<h1>Hi 👋, I'm Wildan Taufik</h1>
 - 🌱 I’m currently learning **Javascript Typescript**
 
 <h3 align="left">Connect with me:</h3>
